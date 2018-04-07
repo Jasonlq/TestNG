@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="110" started-at="2018-04-07T17:34:35Z" finished-at="2018-04-07T17:34:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="110" started-at="2018-04-07T17:34:35Z" finished-at="2018-04-07T17:34:35Z">
+      <class name="hello.Sample2">
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:hello.Sample2@32d992b2]" name="testAdd" duration-ms="20" started-at="2018-04-07T17:34:35Z" finished-at="2018-04-07T17:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method status="PASS" signature="testAdd2()[pri:0, instance:hello.Sample2@32d992b2]" name="testAdd2" duration-ms="7" started-at="2018-04-07T17:34:35Z" finished-at="2018-04-07T17:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd2 -->
+        <test-method status="PASS" signature="testAdd3()[pri:0, instance:hello.Sample2@32d992b2]" name="testAdd3" duration-ms="2" started-at="2018-04-07T17:34:35Z" finished-at="2018-04-07T17:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd3 -->
+      </class> <!-- hello.Sample2 -->
+      <class name="hello.TestNGSimpleTest">
+        <test-method status="PASS" signature="testAdd4()[pri:0, instance:hello.TestNGSimpleTest@5dfcfece]" name="testAdd4" duration-ms="2" started-at="2018-04-07T17:34:35Z" finished-at="2018-04-07T17:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd4 -->
+        <test-method status="PASS" signature="testAdd5()[pri:0, instance:hello.TestNGSimpleTest@5dfcfece]" name="testAdd5" duration-ms="2" started-at="2018-04-07T17:34:35Z" finished-at="2018-04-07T17:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd5 -->
+        <test-method status="PASS" signature="testAdd6()[pri:0, instance:hello.TestNGSimpleTest@5dfcfece]" name="testAdd6" duration-ms="4" started-at="2018-04-07T17:34:35Z" finished-at="2018-04-07T17:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd6 -->
+      </class> <!-- hello.TestNGSimpleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
